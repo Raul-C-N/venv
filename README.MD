@@ -1,0 +1,1 @@
+repositorio para anotações sobre configuração Virtual Environment
